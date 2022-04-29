@@ -1,5 +1,21 @@
 ### Hi, I'm Panttersson =)
 
+## About me
+
+My name is Gabriel, I was born and raised in Maceió, Brazil, and I'm a backend developer.
+
+##
+
+* I am 20 years old
+* I'm living in Osman Loureiro, Maceió, AL
+* **Stack**: JS - PHP - SQL
+* I never finished college, but I have courses and individual studies in the field
+
+##
+
+I spent a lot of my life in doubt about what I would like to do professionally and I was saved by programming. 
+I want to be the best developer possible and change the lives of people now and in the future.
+
 <div align="center">
   <a href="https://github.com/AlvesGabriell">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvesGabriell&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
