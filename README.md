@@ -8,7 +8,7 @@ My name is Gabriel, I was born and raised in Maceió, Brazil, and I'm a backend 
 
 * I am 20 years old
 * I'm living in Osman Loureiro, Maceió, AL
-* **Stack**: JS - PHP - SQL
+* **Stack**: Python, JavaScript
 * I never finished college, but I have courses and individual studies in the field
 
 ##
