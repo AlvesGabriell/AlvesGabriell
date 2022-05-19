@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is Gabriel, I was born and raised in Maceió, Brazil, and I'm a backend developer.
+My name is Gabriel, I was born and raised in Maceió, Brazil. 
 
 ##
 
